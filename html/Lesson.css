@@ -1,0 +1,25 @@
+.important-size {
+    height: 40px;
+    margin-left: 16px;
+}
+
+.important-item {
+    width: 600px;
+    background-color: yellow;
+    padding: 20px;
+    padding-right: 5px;
+    border: solid 1px black;			
+}
+
+.no-important {
+    color: greenyellow;
+    font-stretch: condensed;
+    background-color: grey;
+    margin-left: 16px;
+}
+img {
+    width: 20px;
+}	
+.color1 {
+    color: yellow;
+}	
